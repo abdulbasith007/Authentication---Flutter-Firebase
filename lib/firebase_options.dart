@@ -85,3 +85,4 @@ class DefaultFirebaseOptions {
     storageBucket: 'aunthentication-4baea.firebasestorage.app',
     measurementId: 'G-ZHX4MNKXW9',
   );
+}
